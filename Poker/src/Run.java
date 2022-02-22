@@ -3,8 +3,7 @@ import java.util.ArrayList;
 
 public class Run
 	{
-//		public static ArrayList <Player> player1 = new ArrayList<Player>();
-//		public static ArrayList <Player> player2 = new ArrayList<Player>();
+
 		
 		public static Player player1;
 		public static Player player2;
